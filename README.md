@@ -9,5 +9,12 @@
 ### Primitive Data Types
 
 * String = "strings" or 'strings'
-* numbers = 1000
-* boolean = true
+* Numbers = 1000
+* Boolean = true / false
+
+### Variables
+
+* var to declare them
+* data type is determined by the value
+* Rules: Case sensitive / start with a letter, _ or $ - No spaces or Numbers (to start) / no reserved words (alert)
+* typically developers use camelCase - myValue, myValueName
