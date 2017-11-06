@@ -1,2 +1,1 @@
-document.write("Hello World");
-alert('Hello Again!');
+document.write("Hello JavaScript Course");
